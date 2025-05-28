@@ -32,11 +32,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "NewStoriesAndTales",
     description: "A community platform for impact storytelling",
-    url: "https://newstoriesandtales.com",
+    url: "https://candidate-00-x-newstories-module-ar.vercel.app/",
     siteName: "NewStoriesAndTales",
     images: [
       {
-        url: "https://newstoriesandtales.com/opengraphImage.png",
+        url: "https://candidate-00-x-newstories-module-ar.vercel.app/images/opengraphImage.png",
         width: 1200,
         height: 630,
         alt: "NewStoriesAndTales OG Image",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     title: "NewStoriesAndTales",
     description: "A community platform for impact storytelling",
     creator: "@NewStoriesAndTales",
-    images: ["https://newstoriesandtales.com/opengraphImage.png"],
+    images: ["https://candidate-00-x-newstories-module-ar.vercel.app/images/opengraphImage.png"],
   },
   // icons: {
   //   icon: "/favicon.ico",
