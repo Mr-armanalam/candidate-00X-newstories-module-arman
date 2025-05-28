@@ -52,20 +52,6 @@ export const metadata: Metadata = {
     creator: "@NewStoriesAndTales",
     images: ["https://candidate-00-x-newstories-module-ar.vercel.app/images/opengraphImage.png"],
   },
-  // icons: {
-  //   icon: "/favicon.ico",
-  //   apple: "/apple-touch-icon.png",
-  //   shortcut: "/favicon-16x16.png",
-  //   other: [
-  //     {
-  //       rel: "mask-icon",
-  //       url: "/safari-pinned-tab.svg",
-  //       color: "#5bbad5",
-  //     },
-  //   ],
-  // },
-  // themeColor: "#ffffff",
-  // manifest: "/site.webmanifest",
   robots: {
     index: true,
     follow: true,
