@@ -2,8 +2,8 @@ import { data } from "@/app/data/story";
 import Image from "next/image";
 import React from "react";
 
-const page = ({ params }: { params: { storyId: string } }) => {
-  const { storyId } = params;
+const page = async ({ params }: { params: Promise<{ storyId: string }> }) => {
+  const { storyId } = await params;
   const story = data.find((s) => s.slug === storyId);
 
   return (
